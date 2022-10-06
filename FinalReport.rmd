@@ -30,9 +30,14 @@ mydata <- na.omit(mydata)
 Is attitude toward capitol punishment (cappun) independent of race (race)?
 If not, then whose view differs from whom??
 
+```{reval=FALSE}
+mydata <- mydata %>% 
+mutate(across (where(is. character), as.factor))
+```
 # Methods
-
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
+
+The methods that will be used for this problem is a numerical graphical , and inferential tests from the cat cat helper file to figure out if capital punishment depends on race. 
 
 # Results
 
