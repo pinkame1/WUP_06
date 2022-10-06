@@ -77,7 +77,17 @@ There is 79% of white people who favor capital punishment and 65% who oppose of 
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
-`
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+The p-value is 0 meaning there is a huge differences between the attitudes towards capital punishment depending on race.
+
+```{r}
+fisherXY(mydata$race,mydata$cappun)
+```
+The odds ratio is 0.6 with a 95 percent confidence interval that they both have different opinion and unlikely to have the same opinion. 
 
 
 ## More data version
