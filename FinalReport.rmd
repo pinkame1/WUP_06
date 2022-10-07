@@ -57,15 +57,17 @@ White people are more likely to favor capital punishment than any other race. Ot
 
 
 
-
-
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
 
-
-
+The numerical results hows that there are 79% of white people are in favor of capital punishment and there are 11% of black people who are in favor and the other races only 8% are in favor. There are only 66% of white people who are against capital punishment, 22% of black people oppose of it, and 10% of other races who are against it. 
 
 
 ## Inferential Results
