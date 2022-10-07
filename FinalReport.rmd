@@ -95,4 +95,6 @@ The odds ratio is 0.6 with a 95 percent confidence interval that they both have 
 
 # Discussion and Conclusion
 
+In the master branch we had a larger number of participants who were surveyed which helps the odds ratio converge to a normal distribution. It also shows in the graphical results that white people are more likely to support capital punishment and black people oppose of it because of their race. Race is a factor and is a independent variable. 
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
