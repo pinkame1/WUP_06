@@ -94,4 +94,4 @@ In the FisherXY test it tells us how much higher the odds of exposure which is 0
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-In the number 2 branch our data is reduced as the number of participants are significantly smaller than the master branch. Thus this data is not accurate causing a difference in the data. 
+In the number 2 branch our data is reduced as the number of participants are significantly smaller than the master branch. Thus this data is not accurate causing a difference in the data showing just how much that their opinion are dependable on their race. 
