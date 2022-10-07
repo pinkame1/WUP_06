@@ -91,7 +91,7 @@ The odds ratio is 0.6 with a 95 percent confidence interval that they both have 
 
 
 ## More data version
-
+This data had more participants which helped get the closest number to get  more accurate data. 
 
 # Discussion and Conclusion
 
