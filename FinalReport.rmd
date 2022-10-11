@@ -102,5 +102,5 @@ This data had more participants which helped get the closest number to get  more
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-In the master branch we had a larger number of participants who were surveyed which helps the odds ratio converge to a normal distribution. It also shows in the graphical results that white people are more likely to support capital punishment and black people oppose of it because of their race. Race is a factor and is a independent variable. 
+In the master branch we had a larger number of participants who were surveyed and less variables.More data shows more distinctions within the data. In our number 2 branch we had less data with more variables. Our data in the 2nd branch doesn't have these particular distinctions due to the data sample being less than the master branch data. 
 
