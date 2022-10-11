@@ -52,7 +52,7 @@ barchartGC(~race + cappun,data=mydata, type="percent")
 
 ```
 
-White people are more likely to favor capital punishment than any other race. Other races are divided almost in half about capital punishment and lastly black people are the ns who are likely to oppose capital punishment. 
+White people are more likely to favor capital punishment than any other race. Other races are divided almost in half about capital punishment and lastly black people are the ones who are likely to oppose capital punishment. 
 
 ## Now with LESS data (more variables give less data due to NA's) create the approate graphic displays to answer the question.
 
@@ -68,7 +68,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-The numerical results hows that there are 79% of white people are in favor of capital punishment and there are 11% of black people who are in favor and the other races only 8% are in favor. There are only 66% of white people who are against capital punishment, 22% of black people oppose of it, and 10% of other races who are against it. 
+The numerical results hows that there are 67% of white people are in favor of capital punishment and there are 47% of black people who are in favor and the other races only 61% are in favor. There are only 32% of white people who are against capital punishment, 52% of black people oppose of it, and 38% of other races who are against it. 
 
 
 ## Inferential Results
