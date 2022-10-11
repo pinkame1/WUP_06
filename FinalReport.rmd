@@ -81,13 +81,12 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-The p value is 2.2 percent and we cannot figure out unless we sue another inferential test test (fisher test) to get the exact value. 
 
 ```{r}
 fisherXY(mydata$race,mydata$cappun, printAll = TRUE)
 ```
 
-In the FisherXY test it tells us how much higher the odds of exposure which is 0.5. Since its close to one it tells us how much higher the odds of exposure, a protective effect. 
+In the FisherXY test it tells us how much higher the odds of exposure which is 0.5. Since its close to one it shows that the only difference betweent eh races and their opions are between the white poepel who favor it and black people who oppose it. 
 
 
 # Discussion and Conclusion
