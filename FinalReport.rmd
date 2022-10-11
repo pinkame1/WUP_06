@@ -69,7 +69,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-There is 79% of white people who favor capital punishment and 65% who oppose of it, there are 11% of black people who favor it and 24% who oppose it, lastly other races 8% favor it and 10% oppose of it.
+There is 65 white people who favor capital punishment and 34 who oppose of it, there are 42 of black people who favor it and 57 who oppose it, lastly other races 55 favor it and 44 oppose of it.
 
 ## Now with More data
 
