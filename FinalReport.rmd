@@ -52,7 +52,7 @@ barchartGC(~race + cappun,data=mydata, type="percent")
 
 ```
 
-White people are more likely to favor capital punishment than any other race. Other races are divided almost in half about capital punishment and lastly black people are the ones who are likely to oppose capital punishment. 
+White people are more likely to favor capital punishment than any other race. Over 60% of white people are for it, 30% are oppose of it. 45% of black people are for it and 55% are oppose of it.The other races ate 60% are for it and 40% of them are oppose of it. Other races are divided almost in half about capital punishment and lastly black people are the ones who are likely to oppose capital punishment. 
 
 ## Now with LESS data (more variables give less data due to NA's) create the approate graphic displays to answer the question.
 
@@ -93,4 +93,4 @@ In the FisherXY test it tells us how much higher the odds of exposure which is 0
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-In the number 2 branch our data is reduced as the number of participants are significantly smaller than the master branch. Thus this data is not accurate causing a difference in the data showing just how much that their opinion are dependable on their race. 
+In the number 2 branch our data is reduced as the number of participants are significantly smaller than the master branch. Thus this data is not accurate causing a difference in the data showing how the master branch has more distinctions than number 2. 
