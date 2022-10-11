@@ -30,9 +30,9 @@ mydata <- na.omit(mydata)
 Is attitude toward capitol punishment (cappun) independent of race (race)?
 If not, then whose view differs from whom??
 
-```{reval=FALSE}
-mydata <- mydata %>% 
-mutate(across(where(is. character), as.factor))
+```{r eval=FALSE}
+mydata<-mydata %>% 
+mutate(across(where(is.character), as.factor))
 ```
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
@@ -52,7 +52,9 @@ The methods that will be used for this problem is a numerical graphical , and in
 barchartGC(~race + cappun, data=mydata)
 barchartGC(~race + cappun,data=mydata, type ="percent")
 ```
-The plot shows that the attitude towards capital punishment is depended on race. White peoples opinion is more respected and are for capital punishment then other races, then lastly black people have the most people who oppose capital punishment. 
+
+There is a very huge difference between the two. Over 60% of white people are for capital punishment and about 55% of black people are oppose of capital punishment. 35% of white people are oppose to it and 45% of black people who are for it. The other races had a 55% of people who are in favor and about 45% who are oppose of it. The plot shows that the white people are for capital punishment then other races, then lastly black people have the most people who oppose capital punishment. The white people are for it 2 to 1 and black people are oppose of it 5 to 4. 
+
 ## Now with The Most data (fewer variables gives more data points)
 
 
